@@ -31,7 +31,8 @@
 <li>Cookies-Parser</li>
 </ul>
 <br>
-
+<h2>Live Link</h2>
+https://inventory-management-app-ovsp.onrender.com
 <h2>Installation</h2>
 1.Clone the repository:
 2.bash
